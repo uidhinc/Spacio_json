@@ -1,0 +1,77 @@
+{
+   "wallpapers": [
+      {
+         "author": "Google",
+         "url": "https://raw.githubusercontent.com/uidhinc/Spaciowall_json/master/Wall1.jpg",
+         "name": "Wall 1",
+         "thumbnail": "https://raw.githubusercontent.com/uidhinc/Spaciowall_json/master/t1.jpg"
+      },
+      {
+         "author": "Google",
+         "url": "https://raw.githubusercontent.com/uidhinc/Spaciowall_json/master/Wall2.jpg",
+         "name": "Wall 2",
+         "thumbnail": "https://raw.githubusercontent.com/uidhinc/Spaciowall_json/master/t2.jpg"
+      },
+      {
+         "author": "Google",
+         "url": "https://raw.githubusercontent.com/uidhinc/Spaciowall_json/master/Wall3.jpg",
+         "name":"Wall 3",
+         "thumbnail": "https://raw.githubusercontent.com/uidhinc/Spaciowall_json/master/t3.jpg"
+      },
+      {
+         "author": "Google",
+         "url": "https://raw.githubusercontent.com/uidhinc/Spaciowall_json/master/Wall4.jpg",
+         "name": "Wall 4",
+         "thumbnail": "https://raw.githubusercontent.com/uidhinc/Spaciowall_json/master/t4.jpg"
+      },
+      {
+         "author": "Google",
+         "url": "https://raw.githubusercontent.com/uidhinc/Spaciowall_json/master/Wall5.jpg",
+         "name": "Wall 5",
+         "thumbnail": "https://raw.githubusercontent.com/uidhinc/Spaciowall_json/master/t5.jpg"
+      },
+      {
+         "author":"Google",
+         "url":"https://raw.githubusercontent.com/uidhinc/Spaciowall_json/master/Wall6.jpg",
+         "name":"Wall 6",
+         "thumbnail":"https://raw.githubusercontent.com/uidhinc/Spaciowall_json/master/t6.jpg"
+      }
+      {
+         "author": "Google",
+         "url": "https://raw.githubusercontent.com/uidhinc/Spaciowall_json/master/Wall7.jpg",
+         "name": "Wall 7",
+         "thumbnail": "https://raw.githubusercontent.com/uidhinc/Spaciowall_json/master/t7.jpg"
+      },
+      {
+         "author": "Google",
+         "url": "https://raw.githubusercontent.com/uidhinc/Spaciowall_json/master/Wall8.jpg",
+         "name": "Wall 8",
+         "thumbnail": "https://raw.githubusercontent.com/uidhinc/Spaciowall_json/master/t8.jpg"
+      },
+      {
+         "author": "Google",
+         "url": "https://raw.githubusercontent.com/uidhinc/Spaciowall_json/master/Wall9.jpg",
+         "name": "Wall 9",
+         "thumbnail": "https://raw.githubusercontent.com/uidhinc/Spaciowall_json/master/t9.jpg"
+      },
+      {
+         "author": "Google",
+         "url": "https://raw.githubusercontent.com/uidhinc/Spaciowall_json/master/Wall10.jpg",
+         "name": "Wall 10",
+         "thumbnail": "https://raw.githubusercontent.com/uidhinc/Spaciowall_json/master/t10.jpg"
+      },
+{
+         "author": "Google",
+         "url": "https://raw.githubusercontent.com/uidhinc/Spaciowall_json/master/Wall11.jpg",
+         "name": "Wall 11",
+         "thumbnail": "https://raw.githubusercontent.com/uidhinc/Spaciowall_json/master/t11.jpg"
+      },
+{
+         "author": "Google",
+         "url": "https://raw.githubusercontent.com/uidhinc/Spaciowall_json/master/Wall12.jpg",
+         "name": "Wall 12",
+         "thumbnail": "https://raw.githubusercontent.com/uidhinc/Spaciowall_json/master/t12.jpg"
+      }
+
+   ]
+}
