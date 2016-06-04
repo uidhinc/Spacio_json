@@ -1,0 +1,35 @@
+{
+   "wallpapers": [
+      {
+         "author": "UIDH",
+         "url": "https://raw.githubusercontent.com/uidhinc/Spacio_json/master/Wall8.jpg",
+         "name": "Polygons",
+         "thumbnail": "https://raw.githubusercontent.com/uidhinc/Spacio_json/master/t8.jpg"
+      },
+      {
+         "author": "UIDH",
+         "url": "https://raw.githubusercontent.com/uidhinc/Spacio_json/master/Wall7.jpg",
+         "name": "Mountains",
+         "thumbnail": "https://raw.githubusercontent.com/uidhinc/Spacio_json/master/t7.jpg"
+      },
+      {
+         "author": "UIDH",
+         "url": "https://raw.githubusercontent.com/uidhinc/Spacio_json/master/Wall6.jpg",
+         "name":"Sunset",
+         "thumbnail": "https://raw.githubusercontent.com/uidhinc/Spacio_json/master/t6.jpg"
+      },
+      {
+         "author": "UIDH",
+         "url": "https://raw.githubusercontent.com/uidhinc/Spacio_json/master/Wall5.jpg",
+         "name": "Forest",
+         "thumbnail": "https://raw.githubusercontent.com/uidhinc/Spacio_json/master/t5.jpg"
+      },
+      {
+         "author": "UIDH",
+         "url": "https://raw.githubusercontent.com/uidhinc/Spacio_json/master/Wall4.jpg",
+         "name": "Tree Farm",
+         "thumbnail": "https://raw.githubusercontent.com/uidhinc/Spacio_json/master/t4.jpg"
+      }
+      
+   ]
+}
