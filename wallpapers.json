@@ -1,34 +1,48 @@
 {
+   "Categories": 
+        [
+            {
+                "name": "KitKat"
+            },
+            {
+                "name": "Lollipop"
+            }
+        ],
    "wallpapers": [
       {
          "author": "UIDH",
          "url": "https://raw.githubusercontent.com/uidhinc/Spacio_json/master/Wall8.jpg",
+         "thumbUrl": "https://raw.githubusercontent.com/uidhinc/Spacio_json/master/t8.jpg",
          "name": "Polygons",
-         "thumbnail": "https://raw.githubusercontent.com/uidhinc/Spacio_json/master/t8.jpg"
+         "category": "lollipop"
       },
       {
          "author": "UIDH",
          "url": "https://raw.githubusercontent.com/uidhinc/Spacio_json/master/Wall7.jpg",
+         "thumbUrl": "https://raw.githubusercontent.com/uidhinc/Spacio_json/master/t7.jpg",
          "name": "Mountains",
-         "thumbnail": "https://raw.githubusercontent.com/uidhinc/Spacio_json/master/t7.jpg"
+         "category": "lollipop"
       },
       {
          "author": "UIDH",
          "url": "https://raw.githubusercontent.com/uidhinc/Spacio_json/master/Wall6.jpg",
+         "thumbUrl": "https://raw.githubusercontent.com/uidhinc/Spacio_json/master/t6.jpg",
          "name":"Sunset",
-         "thumbnail": "https://raw.githubusercontent.com/uidhinc/Spacio_json/master/t6.jpg"
+         "category": "lollipop"
       },
       {
          "author": "UIDH",
          "url": "https://raw.githubusercontent.com/uidhinc/Spacio_json/master/Wall5.jpg",
+         "thumbUrl": "https://raw.githubusercontent.com/uidhinc/Spacio_json/master/t5.jpg",
          "name": "Forest",
-         "thumbnail": "https://raw.githubusercontent.com/uidhinc/Spacio_json/master/t5.jpg"
+         "category": "kitkat"
       },
       {
          "author": "UIDH",
          "url": "https://raw.githubusercontent.com/uidhinc/Spacio_json/master/Wall4.jpg",
-         "name": "Tree Farm",
-         "thumbnail": "https://raw.githubusercontent.com/uidhinc/Spacio_json/master/t4.jpg"
+        "thumbUrl": "https://raw.githubusercontent.com/uidhinc/Spacio_json/master/t4.jpg",
+          "name": "Tree Farm",
+         "category": "kitkat"
       }
       
    ]
